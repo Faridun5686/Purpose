@@ -1,2 +1,8 @@
 # Purpose
- Ushbu loyiha — professional darajadagi multi-app Django platformasi bo‘lib,  user management, kontent (blog) va savdo (shop) modullarini o‘z ichiga oladi.  Docker va PostgreSQL orqali loyiha real ish muhitiga tayyorlangan. 
+
+Ushbu loyiha professional darajadagi **multi-app Django platformasi** bo‘lib, quyidagi modullarni o‘z ichiga oladi:
+- 👤 **User Management (Accounts)** — Custom user modeli va autentifikatsiya
+- 📝 **Blog** — Kontent boshqaruvi
+- 🛒 **Shop** — Savdo moduli
+
+Loyiha **Docker** va **PostgreSQL** orqali real ish muhitiga tayyorlangan.
