@@ -1,0 +1,14 @@
+Loyiha maqsadi:
+
+Ushbu loyiha — professional darajadagi multi-app Django platformasi bo‘lib, 
+user management, kontent (blog) va savdo (shop) modullarini o‘z ichiga oladi. 
+Docker va PostgreSQL orqali loyiha real ish muhitiga tayyorlangan. 
+
+Maqsad: 
+- Foydalanuvchilarni ro‘yxatdan o‘tkazish, email bilan login qilish
+- Rollarga asoslangan ruxsatlar (admin, manager, customer)
+- Profilni boshqarish, parolni tiklash
+- Blog va savdo modullarini role-based boshqarish
+- Real backend tizimlarni o‘rganish va portfolio yaratish
+
+Kelajakda loyiha full-stack platformaga, analytics va CI/CD pipeline bilan kengaytirilishi mumkin.
